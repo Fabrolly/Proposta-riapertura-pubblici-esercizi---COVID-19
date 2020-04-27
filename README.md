@@ -11,6 +11,6 @@ Le potenzialitá di questa applicazione peró, a prescindere dall’architettura
 [Leggi la proposta](https://github.com/Fabrolly/Proposta-riapertura-pubblici-esercizi---COVID-19/raw/master/Proposta_riapertura_pubblici_esercizi.pdf)
 
 ### Chi siamo
-Alex Rovelli (titolare della H.O.P.E. srl) e Fabrizio Olivadese (direttore IT e marketing della H.O.P.E srl) formalizzano una proposta concreta, basata sulla applicazione IMMUNI, per gestire il flusso di ingresso nei locali di ogni genere in modo sicuro, semplice ed immediato.
+Alex Rovelli (titolare della H.O.P.E. srl) e Fabrizio Olivadese (direttore IT e marketing della H.O.P.E srl) formalizzano una proposta concreta, basata sulla applicazione IMMUNI, per gestire il flusso di ingresso nei locali di ogni genere.
 
 
